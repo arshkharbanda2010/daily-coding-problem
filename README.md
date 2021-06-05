@@ -10,4 +10,4 @@ Given a list of numbers, return whether any two sums to k. For example, given [1
 
 Bonus: Can you do this in one pass?
 
-[Solution](problem-1.py)
+[Solution](https://github.com/arshkharbanda2010/daily-coding-problem/blob/main/problem_1.py)
